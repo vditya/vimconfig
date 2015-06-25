@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/nobackup/viditya/work/nxos_camden/platform/dc3/aclqos/asic/trident2'
+let g:netrw_dirhist_2='/nobackup/viditya/work/nxos_camden/platform/dc3/aclqos/asic'
+let g:netrw_dirhist_3='/nobackup/viditya/work/nxos_camden/platform/dc3/aclqos'
+let g:netrw_dirhist_4='/nobackup/viditya/work/nxos_camden/platform/dc3'
+let g:netrw_dirhist_5='/nobackup/viditya/work/nxos_camden/platform/dc3/mtm'
+let g:netrw_dirhist_6='/nobackup/viditya/work/nxos_camden/platform/dc3/mtm/pd'
+let g:netrw_dirhist_7='/nobackup/viditya/work/nxos_camden/platform/dc3/mtm/pd/trident2'
